@@ -106,3 +106,5 @@ dist
 stats.html
 
 build/
+
+.DS_Store
